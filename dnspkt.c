@@ -1,4 +1,5 @@
 #include "dnspkt.h"
+#include "dnsfile.h"
 
 
 void __print_ts (FILE *output, struct timeval ts) {

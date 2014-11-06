@@ -7,7 +7,7 @@
 #include <endian.h>
 #include <arpa/inet.h>
 #include <ldns/ldns.h>
-#include "dnsfile.h"
+
 
 typedef struct {
     uint8_t ipver;
